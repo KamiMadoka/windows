@@ -1,0 +1,12 @@
+slmgr.vbs /upk （此时弹出窗口显未“已成功卸载了产品密钥”）
+
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX （弹出窗口提示：“成功的安装了产品密钥”）
+
+slmgr /skms zh.us.to （弹出窗口提示：“密钥管理服务计算机名成功的设置为 zh.us.to”）
+
+slmgr /ato （弹出窗口提示：“成功的激活了产品”）
+--------------------- 
+作者：huajuanaini 
+来源：CSDN 
+原文：https://blog.csdn.net/huajuanaini/article/details/80918906 
+版权声明：本文为博主原创文章，转载请附上博文链接！
